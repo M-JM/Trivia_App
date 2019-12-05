@@ -12,8 +12,7 @@ class TitleFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
-        setText(R.string.hello_blank_fragment)
-        return TextView(activity).apply {
+
         }
     }
 
